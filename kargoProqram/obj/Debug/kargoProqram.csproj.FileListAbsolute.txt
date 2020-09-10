@@ -1,0 +1,14 @@
+C:\proqram\kargoProqram\kargoProqram\bin\Debug\kargoProqram.exe.config
+C:\proqram\kargoProqram\kargoProqram\bin\Debug\kargoProqram.exe
+C:\proqram\kargoProqram\kargoProqram\bin\Debug\kargoProqram.pdb
+C:\proqram\kargoProqram\kargoProqram\bin\Debug\AdvancedDataGridView.dll
+C:\proqram\kargoProqram\kargoProqram\obj\Debug\kargoProqram.csprojAssemblyReference.cache
+C:\proqram\kargoProqram\kargoProqram\obj\Debug\kargoProqram.Form1.resources
+C:\proqram\kargoProqram\kargoProqram\obj\Debug\kargoProqram.Properties.Resources.resources
+C:\proqram\kargoProqram\kargoProqram\obj\Debug\kargoProqram.csproj.GenerateResource.cache
+C:\proqram\kargoProqram\kargoProqram\obj\Debug\kargoProqram.csproj.CopyComplete
+C:\proqram\kargoProqram\kargoProqram\obj\Debug\kargoProqram.exe
+C:\proqram\kargoProqram\kargoProqram\obj\Debug\kargoProqram.pdb
+C:\proqram\kargoProqram\kargoProqram\obj\Debug\kargoProqram.Form2.resources
+C:\proqram\kargoProqram\kargoProqram\obj\Debug\kargoProqram.csproj.ResolveComReference.cache
+C:\proqram\kargoProqram\kargoProqram\obj\Debug\kargoProqram.csproj.CoreCompileInputs.cache
